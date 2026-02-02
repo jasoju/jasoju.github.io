@@ -49,13 +49,20 @@ Previously, I obtained a B.Sc. in Psychology and a M.Sc. in Data Science at the 
     }
   </style>
 
+  ## News
+
   <table class="twoColumnTable">
   <tbody>
-    <tr id="eacl2026">
+    <tr>
       <td class="left-column">01/2026</td>
       <td class="right-column">Excited that our paper <a href="https://arxiv.org/abs/2510.11254">Do Psychometric Tests Work for Large Language Models? Evaluation of Tests on Sexism, Racism, and Morality</a> got accepted to EACL Main 2026!</td>
     </tr>
+
+    <tr>
+      <td class="left-column">12/2025</td>
+      <td class="right-column">Happy to share that I'll be attending GOR 2026 as a participant in the GOR Thesis Award 2026 competition.</td>
+    </tr>
     
   </tbody>
-</table>
+  </table>
 

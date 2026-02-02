@@ -9,9 +9,9 @@ redirect_from:
 
 I am a first year PhD student at the [Chair of Data Science in the Economic and Social Sciences](https://www.bwl.uni-mannheim.de/en/information-systems/chairs/prof-dr-strohmaier/) in the [University of Mannheim](https://www.uni-mannheim.de/en/), supervised by [Prof. Markus Strohmaier](https://www.bwl.uni-mannheim.de/en/information-systems/chairs/prof-dr-strohmaier/team/prof-dr-markus-strohmaier/). My research interests lie in social data science and natural language processing. I am particularly passionate about interdisciplinary work on how we can use social science methodology, such as psychometrics, to learn about large language models (LLMs) and how LLMs can be used in social science research in an ethical and safe way.  
 
-Currently, I am think about how to use and evaluate LLM simulations in social science pretesting.
+Currently, I am thinking about how to use and evaluate LLM simulations in social science pretesting.
 
-Previously, I obtained a B.Sc. in Psychology and a M.Sc. in Data Science at the University of Mannheim. In my Master thesis I explored if a psychological assessment can be used to measure sexism in LLMs ([code and thesis](https://github.com/jasoju/measuring-sexism-in-LLMs)).
+Previously, I obtained a B.Sc. in Psychology and a M.Sc. in Data Science at the University of Mannheim. In my [Master thesis](https://github.com/jasoju/measuring-sexism-in-LLMs) I explored if a psychological assessment can be used to measure sexism in LLMs.
 
 
 ## News

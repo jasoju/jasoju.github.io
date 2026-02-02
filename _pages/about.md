@@ -13,6 +13,9 @@ Currently, I am think about how to use and evaluate LLM simulations in social sc
 
 Previously, I obtained a B.Sc. in Psychology and a M.Sc. in Data Science at the University of Mannheim. In my Master thesis I explored if a psychological assessment can be used to measure sexism in LLMs ([code and thesis](https://github.com/jasoju/measuring-sexism-in-LLMs)).
 
+
+## News
+
 <style>
     .twoColumnTable {
       width: 100%;
@@ -49,7 +52,7 @@ Previously, I obtained a B.Sc. in Psychology and a M.Sc. in Data Science at the 
     }
   </style>
 
-  ## News
+
 
   <table class="twoColumnTable">
   <tbody>

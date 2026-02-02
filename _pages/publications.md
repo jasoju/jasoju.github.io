@@ -5,13 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
-{% include base_path %}
-
-# 2026
+## 2026
 **Jana Jung**, Marlene Lutz, Indira Sen, and Markus Strohmaier. "[Do Psychometric Tests Work for Large Language Models? Evaluation of Tests on Sexism, Racism, and Morality](https://arxiv.org/abs/2510.11254)". Proceedings of the 18th Conference of the European Chapter of the Association for Computational Linguistics. 2026.
 
 
